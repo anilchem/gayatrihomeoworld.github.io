@@ -6,6 +6,7 @@
     float: left;
     text-decoration-color: navy;
     text-emphasis-style: double circle;
+    overflow: hidden;
     
     
 }
